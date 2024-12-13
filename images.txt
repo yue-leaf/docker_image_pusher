@@ -8,4 +8,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #freeipa/freeipa-server:almalinux-9
 #node
-debian:12
+#debian:12
+ubuntu:24.04
