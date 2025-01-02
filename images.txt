@@ -9,4 +9,5 @@
 #freeipa/freeipa-server:almalinux-9
 #node
 #debian:12
-ubuntu:24.04
+#ubuntu:24.04
+ghcr.io/project-chip/chip-build-telink:66
