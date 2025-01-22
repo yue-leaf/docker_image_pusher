@@ -11,4 +11,5 @@
 #debian:12
 #ubuntu:24.04
 #ghcr.io/project-chip/chip-build-telink:66
-ubuntu:20.04
+#ubuntu:20.04
+golang:1.23-alpine
