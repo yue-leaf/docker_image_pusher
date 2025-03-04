@@ -12,4 +12,5 @@
 #ubuntu:24.04
 #ghcr.io/project-chip/chip-build-telink:66
 #ubuntu:20.04
-golang:1.23-alpine
+#golang:1.23-alpine
+postgres:16.3-alpine3.20
