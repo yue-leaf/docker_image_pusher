@@ -19,5 +19,5 @@
 #--platform=linux/arm64 lfedge/ekuiper:v2.1.0
 #--platform=linux/arm64 postgres:16.3-alpine3.20
 #--platform=linux/arm64 eclipse-mosquitto:2.0
-#--platform=linux/arm64 emqx/ekuiper-manager:1.8.0
-emqx/ekuiper-manager:1.8.0
+--platform=linux/arm64 emqx/ekuiper-manager:latest
+#emqx/ekuiper-manager:latest
