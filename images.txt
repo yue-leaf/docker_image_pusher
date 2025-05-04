@@ -19,5 +19,7 @@
 #--platform=linux/arm64 lfedge/ekuiper:v2.1.0
 #--platform=linux/arm64 postgres:16.3-alpine3.20
 #--platform=linux/arm64 eclipse-mosquitto:2.0
---platform=linux/arm64 emqx/ekuiper-manager:latest
+#--platform=linux/arm64 emqx/ekuiper-manager:latest
 #emqx/ekuiper-manager:latest
+--platform=linux/arm64 nrfconnect/otbr:latest
+--platform=linux/arm64 nrfconnect/otbr:9185bda
