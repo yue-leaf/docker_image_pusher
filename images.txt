@@ -22,8 +22,9 @@
 #--platform=linux/arm64 emqx/ekuiper-manager:latest
 #emqx/ekuiper-manager:latest
 #--platform=linux/arm64 nrfconnect/otbr:9185bda
---platform=linux/arm64 postgres:12
---platform=linux/arm64 traefik:v2.2
+#--platform=linux/arm64 postgres:12
+#--platform=linux/arm64 traefik:v2.2
+--platform=linux/arm64 ghcr.io/project-chip/csa-certification-tool-backend:2154a06
 
 
 
