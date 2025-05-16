@@ -27,6 +27,6 @@
 #--platform=linux/arm64 ghcr.io/project-chip/csa-certification-tool-frontend:5c0c9dd
 #--platform=linux/arm64 connectedhomeip/chip-cert-bins:91eab26d458b53df5be0b3547bef7b2796270184
 #golang:1.23-alpine3.20
-#alpine:3.20
+alpine:3.20
 #--platform=linux/arm64 nginx
-portainer-ce
+#portainer-ce
