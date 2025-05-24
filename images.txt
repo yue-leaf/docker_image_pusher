@@ -35,5 +35,5 @@
 
 #--platform=linux/arm64 kuramoto/spring-boot-rest
 #--platform=linux/arm64 springio/gs-spring-boot-docker
- --platform=linux/arm64 amazoncorretto:21.0.0
+#--platform=linux/arm64 amazoncorretto:21.0.0
 golang:1.24.1
