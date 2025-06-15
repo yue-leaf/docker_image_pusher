@@ -36,5 +36,5 @@
 #--platform=linux/arm64 kuramoto/spring-boot-rest
 #--platform=linux/arm64 springio/gs-spring-boot-docker
 #--platform=linux/arm64 amazoncorretto:21.0.0
-golang:1.22.2
+--platform=linux/arm64 golang:1.22.2
 #squidfunk/mkdocs-material:9
