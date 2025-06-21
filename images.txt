@@ -28,7 +28,7 @@
 #--platform=linux/arm64 connectedhomeip/chip-cert-bins:91eab26d458b53df5be0b3547bef7b2796270184
 #golang:1.23-alpine3.20
 #alpine:3.20
---platform=linux/arm64 alpine:3.20
+#--platform=linux/arm64 alpine:3.20
 #--platform=linux/arm64 nginx
 #portainer/portainer-ce
 #rancher/rancher
@@ -39,3 +39,4 @@
 #--platform=linux/arm64 amazoncorretto:21.0.0
 #--platform=linux/arm64 golang:1.22.2
 #squidfunk/mkdocs-material:9
+python:3.12-bookworm
