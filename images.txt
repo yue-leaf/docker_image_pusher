@@ -40,4 +40,4 @@
 #--platform=linux/arm64 golang:1.22.2
 #squidfunk/mkdocs-material:9
 #python:3.12-bookworm
-docker pull readthedocs/build:ubuntu-24.04-2024.06.17
+readthedocs/build:ubuntu-24.04-2024.06.17
