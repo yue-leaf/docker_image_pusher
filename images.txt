@@ -39,4 +39,5 @@
 #--platform=linux/arm64 amazoncorretto:21.0.0
 #--platform=linux/arm64 golang:1.22.2
 #squidfunk/mkdocs-material:9
-python:3.12-bookworm
+#python:3.12-bookworm
+docker pull readthedocs/build:ubuntu-24.04-2024.06.17
