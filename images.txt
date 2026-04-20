@@ -26,7 +26,7 @@
 #--platform=linux/arm64 traefik:v2.2
 #--platform=linux/arm64 ghcr.io/project-chip/csa-certification-tool-frontend:5c0c9dd
 #--platform=linux/arm64 connectedhomeip/chip-cert-bins:91eab26d458b53df5be0b3547bef7b2796270184
-golang:1.25.1-alpine3.22
+#golang:1.25.1-alpine3.22
 #alpine:3.20
 #--platform=linux/arm64 alpine:3.20
 #--platform=linux/arm64 nginx
@@ -41,4 +41,7 @@ golang:1.25.1-alpine3.22
 #squidfunk/mkdocs-material:9
 #python:3.12-bookworm
 #readthedocs/build:ubuntu-24.04-2024.06.17
-sonarqube:community
+#sonarqube:community
+mysql:5.7
+chainmakerofficial/management-backend:v2.3.4
+chainmakerofficial/management-web:v2.3.4
